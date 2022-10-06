@@ -25,6 +25,7 @@ public class StoreTextFile {
 		    	while((str = in.readLine()) != null){
 		    	    list.add(str);
 		    	}
+			//This code is not work
 		    	/*int i = 0;
 		    	while((str = in.readLine()) != null){
 		    	    arr[i] = str;
